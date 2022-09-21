@@ -1,6 +1,6 @@
 //the Push Method will add and element to the end of the array
 var Sports = ["Soccer", "Baseball", "Football", "Track and Field"]
-Sports.push()
+Sports.push("Golf")
 console.log()
 
 //The Shift Method Removes the first element
