@@ -12,3 +12,6 @@ console.log()
 var Registrationfee = ["true", "false", "false", "true"]
 Registrationfee.unshift()
 console.log()
+
+//the index position is 0 also known as the first postion in the array.
+//the index positions are as follows Sports - "Soccer", Ages - "10", and Registrationfee is "true"
